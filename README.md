@@ -4,7 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victo_rsantana/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=santanav589@gmail.com)
 
-![Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSantana100&show_icons=true&bg_color=00000000&card_width=800px)
+![Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSantana100&show_icons=true&bg_color=00000000&card_width=830px)
 
 ## Experiência com as tecnologias
 
