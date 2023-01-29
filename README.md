@@ -16,7 +16,7 @@
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Sou comunicativo, organizado, proativo e apaixonado por tecnologia.
+ Sou um desenvolvedor com experiência em HTML, CSS, JavaScript, Bootstrap, PHP e MySQL. Tenho habilidade para criar sites e aplicações web dinâmicas e responsivas, utilizando as tecnologias mencionadas. Meu objetivo é sempre produzir códigos limpos e organizados, e estou sempre em busca de aprender novas técnicas e ferramentas para melhorar minhas habilidades.
 
 ## Atualmente, aprendendo mais sobre
 - Testes unitários com phpunit
