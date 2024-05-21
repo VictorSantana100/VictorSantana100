@@ -4,6 +4,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victo_rsantana/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=santanav589@gmail.com)
 
+[![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=victor-santana-tech&bg_color=ffffff&color=4c71f2&line=4c71f2&point=ffffff&hide_border=true)](https://www.linkedin.com/in/victor-santana-tech)
+
 ## Experiência com as tecnologias
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
