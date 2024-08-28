@@ -27,9 +27,4 @@
 - Vue.js
 - SEO (Search Engine Optimization)
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/victorSantana100/victorSantana100/output/snake.svg" alt="Snake animation" />
-
 ###
